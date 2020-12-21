@@ -1,5 +1,5 @@
 # german-traffic-sign-classification
-  German traffic sign classification based on the GTSRB dataset. 
+  German traffic sign classification based on the GTSRB dataset through convoloutional neural networks. 
 
 # sign.py:
   Code used for building and training with an option to save the built and trained model. It offers 3 different models.
