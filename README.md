@@ -1,5 +1,5 @@
 # german-traffic-sign-classification
-  German traffic sign classification based on the GTSRB dataset through convoloutional neural networks.
+  German traffic sign classification based on the GTSRB dataset through convolutional neural networks.
   
   The detailed report can be accessed through [Google Drive](https://drive.google.com/file/d/1Tcp0DDnc3O8CT4O5jnU7ApPZbNL6XPyX/view). 
 
